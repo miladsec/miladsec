@@ -7,7 +7,7 @@ package main
     import "fmt"
     
     func main() {
-	    fmt.Println("Welcome to my Profile.")
+	    fmt.Println("Welcome to my profile.")
     }
 ```
 
