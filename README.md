@@ -21,7 +21,7 @@ package main
 
 ## &#x1F3A7; Spotify Playing
 
-[![Spotify](https://spotify-now-playing-pearl-five.vercel.app/api/spotify)](https://github.com/miladzamir)
+[![Spotify](https://spotify-now-playing-two-jet.vercel.app/api/spotify)](https://github.com/miladzamir)
 
 ## &#x1f4c8; My GitHub Stats
 
