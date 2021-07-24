@@ -25,10 +25,10 @@ package main
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/miladzamir/miladzamir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miladzamir&hide=javaScript,html,blade&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/miladzamir/miladzamir">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miladzamir&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
-</a>
+<div align="center">
+	
+[![MiladZamir](http://github-readme-streak-stats.herokuapp.com?user=miladzamir&theme=shades-of-purple)](https://git.io/streak-stats)
+	
+![MiladZamir](https://github-readme-stats.vercel.app/api?username=miladzamir&show_icons=true&theme=shades-of-purple)
+	
+</div>
