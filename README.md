@@ -6,24 +6,30 @@ main.go  🌱
 package main  
     import "fmt"
     
+    //var profileView = 0
+    
     func main() {
 	    fmt.Println("Welcome to my profile")
     }
 ```
+<h3>⚡️ Status:</h3>
 
-<h3 align="left">Connect with me:</h3>
+![profile count](https://komarev.com/ghpvc/?username=miladzamir&color=red)&nbsp;
+
+<h3>👨🏻‍💻 About Me:</h3>
+
+My name is Milad and I'm a Software Engineer who is very interested in learning. currently, I'm trying to do my best in Golang, have experience in PHP language too, I love creating stuff to help other people.
+
+<h3 align="left">📫 How to reach me:</h3>
+
 <p align="left">
-<a href="https://t.me/imiladz" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="miladzamir" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/miladzamir" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="miladzamir" height="40" width="40" /></a>
-<a href="https://instagram.com/miladzamir" target="blank"><img align="center" src="https://img.icons8.com/color/50/000000/instagram-new--v1.png" alt="miladzamir" height="40" width="40" /></a>
-<p align="left"> <a href="https://twitter.com/miladzamir" target="blank"><img src="https://img.shields.io/twitter/follow/miladzamir?logo=twitter&style=for-the-badge" alt="miladzamir" /></a> </p>
+	<a href="https://github.com/miladzamir"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/miladzamir"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/miladzamir"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/miladzamir"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 
-## &#x1F3A7; Spotify Playing
-
-[![Spotify](https://spotify-now-playing-lbs8x9bxx-miladzamir.vercel.app/api/spotify)](https://github.com/miladzamir)
-
-## &#x1f4c8; My GitHub Stats
+<h3 align="left"> &#x1f4c8; My GitHub Stats:</h3>
 
 <div align="center">
 	
