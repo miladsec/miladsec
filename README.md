@@ -6,8 +6,6 @@ main.go  🌱
 package main  
     import "fmt"
     
-    //var profileView = 0
-    
     func main() {
 	    fmt.Println("Welcome to my profile")
     }
