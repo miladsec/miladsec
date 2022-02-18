@@ -13,6 +13,9 @@ package main
 <h3>⚡️ Status:</h3>
 
 ![profile count](https://komarev.com/ghpvc/?username=miladzamir&color=red)&nbsp;
+<div align="left">
+	<img src="https://discord.c99.nl/widget/theme-1/512621943753539584.png" />
+</div>
 
 <h3>👨🏻‍💻 About Me:</h3>
 
@@ -32,7 +35,5 @@ My name is Milad and I'm a Software Engineer who is very interested in learning.
 <div align="center">
 	
 [![MiladZamir](http://github-readme-streak-stats.herokuapp.com?user=miladzamir&theme=shades-of-purple)](https://git.io/streak-stats)
-	
-![MiladZamir](https://github-readme-stats.vercel.app/api?username=miladzamir&show_icons=true&theme=shades-of-purple)
 	
 </div>
