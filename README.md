@@ -24,10 +24,10 @@ My name is Milad and I'm a Software Engineer who is very interested in learning.
 <h3 align="left">📫 How to reach me:</h3>
 
 <p align="left">
-	<a href="https://github.com/miladzamir"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/ZAM1R"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/miladzamir"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/miladzamir"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/miladzamir"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://twitter.com/miladzamir"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a>
 </p>
 
 <h3 align="left"> &#x1f4c8; My GitHub Stats:</h3>
