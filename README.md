@@ -34,6 +34,6 @@ My name is Milad and I'm a Software Engineer who is very interested in learning.
 
 <div align="center">
 	
-[![MiladZamir](http://github-readme-streak-stats.herokuapp.com?user=miladzamir&theme=shades-of-purple)](https://git.io/streak-stats)
+[![MiladZamir](http://github-readme-streak-stats.herokuapp.com?user=ZAM1R&theme=shades-of-purple)](https://git.io/streak-stats)
 	
 </div>
