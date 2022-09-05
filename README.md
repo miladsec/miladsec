@@ -14,7 +14,7 @@ package main
 
 ![profile count](https://komarev.com/ghpvc/?username=ZAM1R&style=flat&color=red)&nbsp;
 <div align="left">
-	<img src="https://discord.c99.nl/widget/theme-1/739740831879004191.png" />
+	<img src="https://discord.c99.nl/widget/theme-1/512621943753539584.png" />
 </div>
 
 <h3>👨🏻‍💻 About Me:</h3>
