@@ -12,9 +12,9 @@ package main
 ```
 <h3>⚡️ Status:</h3>
 
-![profile count](https://komarev.com/ghpvc/?username=miladzamir&style=flat&color=red)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=ZAM1R&style=flat&color=red)&nbsp;
 <div align="left">
-	<img src="https://discord.c99.nl/widget/theme-1/512621943753539584.png" />
+	<img src="https://discord.c99.nl/widget/theme-1/739740831879004191.png" />
 </div>
 
 <h3>👨🏻‍💻 About Me:</h3>
