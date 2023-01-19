@@ -9,7 +9,6 @@ using namespace std;
 
 int main()
 {
-    int i; 
     bool amIAlive = true;
     char inLove[4][9] = {"Sarvenaz", "C#", "Python", "Php"};  
     
