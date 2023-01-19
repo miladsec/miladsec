@@ -1,14 +1,26 @@
 
 <h1 align="center">Hi 👋, I'm Milad</h1>
 
-main.go  🌱
-```go
-package main  
-    import "fmt"
+main.cpp  🌱
+```cpp
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int i; 
+    bool amIAlive = true;
+    char inLove[4][9] = {"Sarvenaz", "C#", "Python", "Php"};  
     
-    func main() {
-	    fmt.Println("Welcome to my profile")
+    while (amIAlive){
+        eat();
+        code();
+        sleep();
     }
+        
+    return 0;  
+}
 ```
 <h3>⚡️ Status:</h3>
 
