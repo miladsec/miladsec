@@ -10,7 +10,7 @@ using namespace std;
 int main()
 {
     bool amIAlive = true;
-    char inLove[4][9] = {"Sarvenaz", "C#", "Python", "Php"};  
+    char inLove[3][9] = {"cyber-security", "Go", "Python"};  
     
     while (amIAlive){
         eat();
