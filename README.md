@@ -1,50 +1,64 @@
 
 <h1 align="center">Hi 👋, I'm Milad</h1>
 
-main.cpp  🌱
-```cpp
-#include <iostream>
+main.go  🌱
+```go
+package main
 
-using namespace std;
+import (
+	"fmt"
+	"time"
+)
 
-int main()
-{
-    bool amIAlive = true;
-    char inLove[3][9] = {"cyber-security", "Go", "Python"};  
-    
-    while (amIAlive){
-        eat();
-        code();
-        sleep();
-    }
-        
-    return 0;  
+func main() {
+	amIAlive := true
+	inLove := [2]string{"Go", "Python"}
+
+	for amIAlive {
+		eat()
+		code()
+		sleep()
+	}
+}
+
+func eat() {
+	fmt.Println("Eating...")
+}
+
+func code(inLove [2]string) {
+	fmt.Printf("Coding in languages: %v\n", inLove)
+}
+
+func sleep() {
+	fmt.Println("Sleeping...")
+	time.Sleep(25200 * time.Second)
 }
 ```
-<h3>⚡️ Status:</h3>
-
-![profile count](https://komarev.com/ghpvc/?username=ZAM1R&style=flat&color=red)&nbsp;
-<div align="left">
+<h3 align="center">⚡️ Status:</h3>
+<div align="center">
 	<img src="https://discord.c99.nl/widget/theme-1/512621943753539584.png" />
 </div>
+<div align="center">
+	
+![profile count](https://komarev.com/ghpvc/?username=miladsec&style=flat&color=red)&nbsp;
 
-<h3>👨🏻‍💻 About Me:</h3>
-
-My name is Milad and I'm a Software Engineer who is very interested in learning. currently, I'm trying to do my best in Golang, have experience in PHP language too, I love creating stuff to help other people.
-
-<h3 align="left">📫 How to reach me:</h3>
-
-<p align="left">
-	<a href="https://github.com/ZAM1R"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/miladzamir"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/miladzamir"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/miladzamir"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a>
+</div>
+<br/>
+<h3 align="center">👨🏻‍💻 About Me:</h3>
+<p align="center">Hi, I'm Milad, a Software Engineer who's all about security. I work in cybersecurity, making sure digital stuff stays safe. I use coding to get better at my job, staying sharp and coming up with secure solutions. Come along as we make the digital world safer together!</p>
+<br/>
+<h3 align="center">📫 How to reach me:</h3>
+<p align="center">
+	<a href="https://github.com/miladsec"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/miladsec"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/miladsec"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/miladsec"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a>
 </p>
-
-<h3 align="left"> &#x1f4c8; My GitHub Stats:</h3>
+<br/>
+<h3 align="center"> &#x1f4c8; My GitHub Stats:</h3>
 
 <div align="center">
 	
-[![MiladZamir](http://github-readme-streak-stats.herokuapp.com?user=Miiilc&theme=shades-of-purple)](https://git.io/streak-stats)
+[![MiladZamir](http://github-readme-streak-stats.herokuapp.com?user=miladsec&theme=shades-of-purple)](https://git.io/streak-stats)
 	
 </div>
