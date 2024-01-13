@@ -64,6 +64,6 @@ func sleep() {
 
 <div align="center">
 	
-[![MiladZamir](http://github-readme-streak-stats.herokuapp.com?user=miladsec&theme=shades-of-purple)](https://git.io/streak-stats)
+[![miladsec](http://github-readme-streak-stats.herokuapp.com?user=miladsec&theme=shades-of-purple)](https://git.io/streak-stats)
 	
 </div>
