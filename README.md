@@ -1,10 +1,15 @@
 
-<h1 align="center">Hi 👋, I'm Milad</h1>
+<h1 align="center">
+	
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&size=30&duration=1&pause=1000&color=8E44AD&vCenter=true&repeat=false&random=false&width=135&lines=Milad+SEC)](https://miladsec.com)
 
-<h3 align="center"> 🚀 Project Promotion:</h3>
-<p align="center">
-<a href="https://github.com/miladsec/go-night-watch-security">Go Night Watch Security!</a>
-</p>
+</h1>
+
+<div align="center">
+	
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lemon&pause=1000&color=9B59B6&vCenter=true&random=false&width=435&lines=I'm+promoting%3A%22Go+Night+Watch+Security!%22)]([https://git.io/typing-svg](https://github.com/miladsec/go-night-watch-security))
+
+</div>
 
 main.go  🌱
 ```go
