@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lemon&size=30&pause=1000&color=9B59B6&vCenter=true&repeat=false&random=false&width=500&lines=Go+Night+Watch+Security!)]([https://git.io/typing-svg](https://github.com/miladsec/go-night-watch-security))
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lemon&size=30&pause=1&color=9B59B6&vCenter=true&repeat=false&random=false&width=500&lines=Go+Night+Watch+Security!)]([https://git.io/typing-svg](https://github.com/miladsec/go-night-watch-security))
 
 </div>
 
