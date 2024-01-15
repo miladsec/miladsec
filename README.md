@@ -70,5 +70,8 @@ func sleep() {
 <div align="center">
 	
 [![miladsec](http://github-readme-streak-stats.herokuapp.com?user=miladsec&theme=shades-of-purple)](https://git.io/streak-stats)
-	
+
+
+[![miladsec](https://github-readme-activity-graph.vercel.app/graph?username=miladsec&theme=react)](https://github.com/miladsec)
+ 
 </div>
