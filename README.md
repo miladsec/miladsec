@@ -68,10 +68,9 @@ func sleep() {
 <h3 align="center"> &#x1f4c8; My GitHub Stats:</h3>
 
 <div align="center">
-	
-[![miladsec](http://github-readme-streak-stats.herokuapp.com?user=miladsec&theme=shades-of-purple)](https://git.io/streak-stats)
 
+[![Milad SEC](https://streak-stats.demolab.com?user=miladsec&theme=tokyonight)](https://github.com/miladsec)
 
-[![miladsec](https://github-readme-activity-graph.vercel.app/graph?username=miladsec&theme=react)](https://github.com/miladsec)
+[![Milad SEC](https://github-readme-activity-graph.vercel.app/graph?username=miladsec&theme=react)](https://github.com/miladsec)
  
 </div>
