@@ -1,13 +1,7 @@
 
-<h1 align="center">
-	
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&size=30&duration=1&pause=1000&color=8E44AD&vCenter=true&repeat=false&random=false&width=135&lines=Milad+SEC)](https://miladsec.com)
-
-</h1>
-
 <div align="center">
 
-[![go night watch security](https://readme-typing-svg.demolab.com?font=Lemon&size=30&color=9B59B6&vCenter=true&repeat=false&random=false&width=500&lines=Go+Night+Watch+Security!)]([https://git.io/typing-svg](https://github.com/miladsec/go-night-watch-security))
+[![go night watch security](https://readme-typing-svg.demolab.com?font=Lemon&size=30&color=9B59B6&vCenter=true&repeat=false&random=false&width=500&lines=im+working+on+security+tools)]([https://git.io/typing-svg](https://github.com/miladsec))
 
 </div>
 
