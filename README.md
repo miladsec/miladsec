@@ -1,9 +1,4 @@
 
-<div align="center">
-
-[![go night watch security](https://readme-typing-svg.demolab.com?font=Lemon&size=30&color=9B59B6&vCenter=true&repeat=false&random=false&width=500&lines=im+working+on+security+tools)]([https://git.io/typing-svg](https://github.com/miladsec))
-
-</div>
 
 main.go  🌱
 ```go
