@@ -1,37 +1,48 @@
 
 
+<h3 align="center">👨🏻‍💻 About Me:</h3>
+<p align="center">
+Hi👋, I'm Milad, a Software Engineer and master of C#. I specialize in building clean, efficient, and high-performance applications. Along the way, I stay mindful of security to ensure my work is solid and reliable. I also run a business, <a href="https://tolisa.org" target="_blank">Tolisa</a>, where I focus on delivering innovative solutions. Let's create something extraordinary together!
+</p>
+<br/>
+
 main.go  🌱
-```go
-package main
+```cs
+using System;
+using System.Threading;
 
-import (
-	"fmt"
-	"time"
-)
+class Program
+{
+    static void Main()
+    {
+        bool amIAlive = true;
+        string[] inLove = { "C#", "Python", "Tolisa" };
 
-func main() {
-	amIAlive := true
-	inLove := [2]string{"Go", "Python"}
+        while (amIAlive)
+        {
+            Eat();
+            Code(inLove);
+            Sleep();
+        }
+    }
 
-	for amIAlive {
-		eat()
-		code()
-		sleep()
-	}
+    static void Eat()
+    {
+        Console.WriteLine("Eating...");
+    }
+
+    static void Code(string[] inLove)
+    {
+        Console.WriteLine($"Coding in languages: {string.Join(", ", inLove)}");
+    }
+
+    static void Sleep()
+    {
+        Console.WriteLine("Sleeping...");
+        Thread.Sleep(25200 * 1000); // Sleep for 25200 seconds
+    }
 }
 
-func eat() {
-	fmt.Println("Eating...")
-}
-
-func code(inLove [2]string) {
-	fmt.Printf("Coding in languages: %v\n", inLove)
-}
-
-func sleep() {
-	fmt.Println("Sleeping...")
-	time.Sleep(25200 * time.Second)
-}
 ```
 <h3 align="center">⚡️ Status:</h3>
 <div align="center">
@@ -43,9 +54,7 @@ func sleep() {
 
 </div>
 <br/>
-<h3 align="center">👨🏻‍💻 About Me:</h3>
-<p align="center">Hi, I'm Milad, a Software Engineer who's all about security. I work in cybersecurity, making sure digital stuff stays safe. I use coding to get better at my job, staying sharp and coming up with secure solutions. Come along as we make the digital world safer together!</p>
-<br/>
+
 <h3 align="center">📫 How to reach me:</h3>
 <p align="center">
 	<a href="https://github.com/miladsec"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
